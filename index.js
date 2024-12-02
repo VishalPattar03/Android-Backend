@@ -13,7 +13,17 @@ const images = [
   { id: 7, name: "Squirrel", file: "image7.jpg" },
   { id: 8, name: "Elephant", file: "image8.jpg" },
   { id: 9, name: "Tomy", file: "image9.jpg" },
-  { id: 10, name: "Fawn", file: "image10.jpg" },
+  { id: 10, name: "Ten", file: "image10.jpg" },
+  { id: 11, name: "Eleven", file: "image11.jpg" },
+  { id: 12, name: "Twelve", file: "image12.jpg" },
+  { id: 13, name: "Thirteen", file: "image13.jpg" },
+  { id: 14, name: "Fourteen", file: "image14.jpg" },
+  { id: 15, name: "Fifteen", file: "image15.jpg" },
+  { id: 16, name: "Sixteen", file: "image16.jpg" },
+  { id: 17, name: "Seventeen", file: "image17.jpg" },
+  { id: 18, name: "Eighteen", file: "image18.jpg" },
+  { id: 19, name: "Nineteen", file: "image19.jpg" },
+  { id: 20, name: "Twenty", file: "image20.jpg" },
 ];
 
 // Middleware to serve static files
