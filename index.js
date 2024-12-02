@@ -12,10 +12,8 @@ const images = [
   { id: 6, name: "Owl", file: "image6.jpg" },
   { id: 7, name: "Squirrel", file: "image7.jpg" },
   { id: 8, name: "Elephant", file: "image8.jpg" },
-  { id: 9, name: "Dog", file: "image9.jpg" },
+  { id: 9, name: "Tomy", file: "image9.jpg" },
   { id: 10, name: "Fawn", file: "image10.jpg" },
-  { id: 11, name: "Lioness", file: "image11.jpg" },
-  { id: 12, name: "Wild Horse", file: "image12.jpg" },
 ];
 
 // Middleware to serve static files
